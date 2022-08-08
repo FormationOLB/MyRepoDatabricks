@@ -37,7 +37,8 @@
 
 -- COMMAND ----------
 
--- MAGIC %run ../Includes/Classroom-Setup-3.1
+-- MAGIC 
+-- MAGIC %run ../Includes/Classroom-Setup-3.1 
 
 -- COMMAND ----------
 

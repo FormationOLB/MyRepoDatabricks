@@ -162,6 +162,13 @@ display(example_df)
 
 # COMMAND ----------
 
+# MAGIC %md # this is a header
+# MAGIC - bullet 1
+# MAGIC - bullet 2
+# MAGIC - [example_link]("http://www.google.fr")
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC 
 # MAGIC 
